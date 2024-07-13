@@ -1,6 +1,6 @@
 package com.layfoundation.design.mode.factory.simple;
 
-import com.layfoundation.design.mode.factory.product.Phone;
+import com.layfoundation.design.mode.factory.product.phone.Phone;
 
 public class PhoneStore {
     private SimpleFactory simpleFactory;

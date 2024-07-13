@@ -3,9 +3,9 @@ package com.layfoundation.design.mode.singleton;
 /**
  * 懒汉式单例
  * 双重检查锁。注意volatile关键字
- * 优点：懒加载，线程安全
- * 缺点：性能较差
- * 适用场景：单例对象较大，初始化耗时较长
+ * 【优点】：懒加载，线程安全
+ * 【缺点】：性能较差
+ * 【适用场景】：单例对象较大，初始化耗时较长
  * 参考文章：https://www.cnblogs.com/yoga21/p/9224557.html
  */
 public class LazySingleton {

@@ -2,7 +2,7 @@ package com.layfoundation.design.mode;
 
 import com.layfoundation.design.mode.factory.method.AbstractFactory;
 import com.layfoundation.design.mode.factory.method.FactoryMethod;
-import com.layfoundation.design.mode.factory.product.Phone;
+import com.layfoundation.design.mode.factory.product.phone.Phone;
 import com.layfoundation.design.mode.template.ConcreteClass;
 
 public class Client {

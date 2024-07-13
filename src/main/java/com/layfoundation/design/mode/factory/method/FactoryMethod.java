@@ -1,9 +1,9 @@
 package com.layfoundation.design.mode.factory.method;
 
-import com.layfoundation.design.mode.factory.product.Huawei;
-import com.layfoundation.design.mode.factory.product.Iphone;
-import com.layfoundation.design.mode.factory.product.Phone;
-import com.layfoundation.design.mode.factory.product.Xiaomi;
+import com.layfoundation.design.mode.factory.product.phone.Huawei;
+import com.layfoundation.design.mode.factory.product.phone.Iphone;
+import com.layfoundation.design.mode.factory.product.phone.Phone;
+import com.layfoundation.design.mode.factory.product.phone.Xiaomi;
 
 /**
  * 工厂方法模式
