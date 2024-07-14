@@ -12,6 +12,7 @@ import com.layfoundation.design.mode.factory.simple.SimpleFactory;
 
 /**
  * 【工厂模式】是一种创建型设计模式，它提供了一种创建对象的方式，使得创建对象的过程与使用对象的过程分离
+ * 工厂模式违背了"开闭原则"，因为每次新增产品都需要修改工厂类
  */
 public class FactoryClient {
     public static void main(String[] args) {
