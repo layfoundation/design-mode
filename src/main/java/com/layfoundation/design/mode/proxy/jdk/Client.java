@@ -3,7 +3,7 @@ package com.layfoundation.design.mode.proxy.jdk;
 import java.lang.reflect.Proxy;
 
 /**
- *
+ * 代理模式
  */
 public class Client {
     public static void main(String[] args) {
